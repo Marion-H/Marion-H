@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+My name is Marion HOURDOU.
+I'm a Developper Web. I'm fron France and currently working on different personal projects 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marion-H&show_icons=true&theme=radical)
 
 <!--
