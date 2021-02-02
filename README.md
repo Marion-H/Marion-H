@@ -3,7 +3,8 @@
 My name is Marion HOURDOU.
 I'm a Developper Web. I'm fron France and currently working on different personal projects 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marion-H&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marion-H)](https://github.com/Marion-H/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marion-H&show_icons=true&theme=radical)
+
 
 <!--
 **Marion-H/Marion-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
