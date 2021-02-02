@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Marion-H&theme=gruvbox" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **Marion-H/Marion-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
