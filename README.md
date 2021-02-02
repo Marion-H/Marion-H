@@ -3,8 +3,8 @@
 My name is Marion HOURDOU.
 I'm a Developper Web. I'm fron France and currently working on different personal projects 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marion-H&layout=compact&theme=radical)](https://github.com/Marion-H/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marion-H&show_icons=true&theme=radical&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marion-H&layout=compact&theme=Gradient)](https://github.com/Marion-H/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marion-H&show_icons=true&theme=Gradient&layout=compact)
 
 
 <!--
