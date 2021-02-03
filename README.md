@@ -6,7 +6,8 @@ My name is Marion HOURDOU.
 I'm a Developper Web. I'm from France and currently working on different personal projects 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marion-H&show_icons=true&theme=buefy&layout=compact)](https://github.com/Marion-H/github-readme-stats)
-![Marion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marion-H&show_icons=true&theme=buefy&layout=compact?count_private=true)
+
+[![Marion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marion-H&show_icons=true&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
